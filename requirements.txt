@@ -1,5 +1,5 @@
 Flask
 pycrypto
 secretsharing
-python-tk
+python3-tk
 webbrowser

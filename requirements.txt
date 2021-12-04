@@ -2,5 +2,5 @@ Flask
 hashlib
 pycrypto
 secretsharing
-tkinter
+python-tk
 webbrowser

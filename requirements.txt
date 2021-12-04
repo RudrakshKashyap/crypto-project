@@ -1,4 +1,3 @@
 Flask
 pycrypto
 secretsharing
-tkinter
